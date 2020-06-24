@@ -1,0 +1,20 @@
+{
+  "name": "km-formatcep-utils",
+  "version": "1.0.0",
+  "description": "Função util para formatação de CEP Brasileiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleitonMarques/km-formatcep-utils.git"
+  },
+  "keywords": ["cep", "cepbrasileiro"],
+  "author": "kleitonmarques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleitonMarques/km-formatcep-utils/issues"
+  },
+  "homepage": "https://github.com/kleitonMarques/km-formatcep-utils#readme"
+}
